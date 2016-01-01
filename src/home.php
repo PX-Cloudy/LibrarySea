@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>无标题文档</title>
+<title>LibrarySea</title>
 <style type="text/css">
 .menubar {
   clear: both;
@@ -25,10 +25,13 @@
 	background: white;
 }
 </style>
+<link rel="icon" href="./LibrarySea/LibrarySeaLogo16X16.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="./LibrarySea/LibrarySeaLogo16X16.ico" type="image/x-icon" />
 </head>
 
 <body>
-<h1>LibrarySea</h1>
+<img src="./LibrarySea/LibrarySeaLogo128X128.ico" />
+
 <table width=100% class="menubar"><tr>
   <td width=100%>
   <div class="toolbar">
