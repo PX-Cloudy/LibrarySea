@@ -94,13 +94,6 @@
 <p>库海本着推动开源，促进开源的宗旨，使开发者能快速了解和使用目前所流行的开源库和开源框架，降低学习成本，提高开发效率，使更多的人使用开源，加入到开源中来</p>
 <hr style="color: #044a64" height="2">
 
-<h3>Sponsors</h3>
-<p>Ongoing development and maintenance of SQLite is
-sponsored in part by <a href="consortium.html">SQLite Consortium</a>
-members, including:</p>
-
-<a name="consortium_members"></a>
-<center>
 <table border="0" cellpadding="15">
 
 
