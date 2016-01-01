@@ -32,16 +32,16 @@
 <table width=100% class="menubar"><tr>
   <td width=100%>
   <div class="toolbar">
-    <a href="home.html">主页</a>
-    <a href="ProgramLanguage.html">开发语言</a>
-    <a href="Application.html">应用领域</a>
-    <a href="UML.html">UML</a>
-    <a href="SourceCode.html">源码</a>
-    <a href="Algorithm.html">算法</a>
-    <a href="DesignPatterns.html">设计模式</a>
-    <a href="UpdateNews.html">更新</a>
-    <a href="Links.html">官网链接</a>
-    <a href="About.html">关于</a>
+    <a href="./home.php">主页</a>
+    <a href="../LibrarySea/ProgramLanguage.php">开发语言</a>
+    <a href="../LibrarySea/Application.php">应用领域</a>
+    <a href="../LibrarySea/UML.php">UML</a>
+    <a href="../LibrarySea/SourceCode.php">源码</a>
+    <a href="../LibrarySea/Algorithm.php">算法</a>
+    <a href="../LibrarySea/DesignPatterns.php">设计模式</a>
+    <a href="../LibrarySeaUpdateNews.php">更新</a>
+    <a href="../LibrarySea/Links.php">官网链接</a>
+    <a href="../LibrarySea/About.php">关于</a>
   </div>
 <script>
   gMsg = "Search Library Docs..."
@@ -92,7 +92,7 @@
 
 <h3>Sponsors</h3>
 <p>Ongoing development and maintenance of SQLite is
-sponsored in part by <a href="consortium.html">SQLite Consortium</a>
+sponsored in part by <a href="../consortium.html">SQLite Consortium</a>
 members, including:</p>
 
 <a name="consortium_members"></a>
