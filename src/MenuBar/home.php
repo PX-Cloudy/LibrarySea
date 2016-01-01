@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <title>LibrarySea</title>
+<link rel="icon" href="./LibrarySea/img/LibrarySeaLogo16X16.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="./LibrarySea/img/LibrarySeaLogo16X16.ico" type="image/x-icon" />
 <style type="text/css">
 .menubar {
   clear: both;
@@ -25,26 +27,25 @@
 	background: white;
 }
 </style>
-<link rel="icon" href="./LibrarySea/LibrarySeaLogo16X16.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="./LibrarySea/LibrarySeaLogo16X16.ico" type="image/x-icon" />
+
 </head>
 
 <body>
-<img src="./LibrarySea/LibrarySeaLogo128X128.ico" />
+<img src="./LibrarySea/img/LibrarySeaLogo128X128.ico" />
 
 <table width=100% class="menubar"><tr>
   <td width=100%>
   <div class="toolbar">
     <a href="./home.php">主页</a>
-    <a href="../LibrarySea/ProgramLanguage.php">开发语言</a>
-    <a href="../LibrarySea/Application.php">应用领域</a>
-    <a href="../LibrarySea/UML.php">UML</a>
-    <a href="../LibrarySea/SourceCode.php">源码</a>
-    <a href="../LibrarySea/Algorithm.php">算法</a>
-    <a href="../LibrarySea/DesignPatterns.php">设计模式</a>
-    <a href="../LibrarySeaUpdateNews.php">更新</a>
-    <a href="../LibrarySea/Links.php">官网链接</a>
-    <a href="../LibrarySea/About.php">关于</a>
+    <a href="../LibrarySea/src/ProgramLanguage.php">开发语言</a>
+    <a href="../LibrarySea/src/Application.php">应用领域</a>
+    <a href="../LibrarySea/src/UML.php">UML</a>
+    <a href="../LibrarySea/src/SourceCode.php">源码</a>
+    <a href="../LibrarySea/src/Algorithm.php">算法</a>
+    <a href="../LibrarySea/src/DesignPatterns.php">设计模式</a>
+    <a href="../LibrarySea/src/UpdateNews.php">更新</a>
+    <a href="../LibrarySea/src/Links.php">官网链接</a>
+    <a href="../LibrarySea/src/About.php">关于</a>
   </div>
 <script>
   gMsg = "Search Library Docs..."
